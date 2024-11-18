@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"co.edu.poli.examen1.modelo","l":"Accion"},{"l":"All Classes","u":"allclasses-index.html"}];updateSearchResults();
